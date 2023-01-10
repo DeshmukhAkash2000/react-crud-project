@@ -1,0 +1,17 @@
+.p-relative{
+    position: relative;
+}
+
+.p-absolute{
+    position: absolute;
+    top: 10%;
+    bottom: 50%;
+    left: 20%;
+    right: 50%;
+    width: 50%;
+}
+
+.heading-txt{
+    color: royalblue;
+    text-align: center;
+}
